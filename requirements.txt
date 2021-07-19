@@ -1,0 +1,10 @@
+scalecast
+pandas
+numpy
+tqdm
+scipy
+xgboost
+lightgbm
+fbprophet
+greykite
+ipywidgets
