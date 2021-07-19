@@ -1,0 +1,8 @@
+dependencies:
+  - pandas
+  - numpy
+  - tqdm
+  - scipy
+  - fbprophet
+  - greykite
+  - ipywidgets
