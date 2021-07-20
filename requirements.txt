@@ -4,7 +4,4 @@ pandas
 numpy
 tqdm
 scipy
-xgboost
-lightgbm
-greykite
 ipywidgets

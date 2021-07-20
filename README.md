@@ -2,8 +2,4 @@
 
 # Forecasting Housing Prices
 
-## codex blog post:
-[link]
-
-## binder app:
-[link]
+[binder](https://mybinder.org/v2/gh/mikekeith52/housing_prices/HEAD?filepath=housing_prices.ipynb)
