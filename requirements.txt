@@ -1,7 +1,3 @@
 scalecast
-holidays==0.9.12
-pandas
-numpy
 tqdm
-scipy
 ipywidgets
